@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+expect {
+  ${1:action}
+}.to ${2:change}{ ${3:code} }.by(${4:1})}
+]]></content>
+  <tabTrigger>exptc</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

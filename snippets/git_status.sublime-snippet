@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[git status]]></content>
+  <tabTrigger>gst</tabTrigger>
+  <scope>source.shell,source.dosbatch</scope>
+</snippet>

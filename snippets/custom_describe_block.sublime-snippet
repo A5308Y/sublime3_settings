@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+describe '${1:action/object}' do
+  it '${2:does something}' do
+    ${3}
+  end
+end
+]]></content>
+  <tabTrigger>ds</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

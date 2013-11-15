@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"Capybara Snippets",
+		"Case Conversion",
+		"ChangeQuotes",
+		"ColorPicker",
+		"DashDoc",
+		"Delete Current File",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"Jump Along Indent",
+		"RSpec (snippets and syntax)",
+		"RubyTest",
+		"SCSS",
+		"Shell Command",
+		"SublimeERB",
+		"sublimelint",
+		"Theme - Phoenix"
+	]
+}

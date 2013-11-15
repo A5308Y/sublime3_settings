@@ -1,0 +1,11 @@
+[
+  { "keys": ["ctrl+shift+'"], "command": "change_quotes" },
+  { "keys": ["super+alt+s"], "command": "goto_symbol_in_project" },
+  { "keys": ["f12"], "command": "toggle_bookmark" },
+  { "keys": ["super+f12"], "command": "select_all_bookmarks" },
+  { "keys": ["super+shift+f12"], "command": "clear_bookmarks" },
+  { "keys": ["shift+f12"], "command": "next_bookmark" },
+  { "keys": ["ctrl+shift+."], "command": "erb" },
+  { "keys": ["ctrl+alt+t"], "command": "reopen_last_file" },
+  { "keys": ["ctrl+shift+p"], "command": "expand_selection_to_paragraph" }
+]
