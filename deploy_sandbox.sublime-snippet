@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+bundle exec cap sandbox deploy
+]]></content>
+  <tabTrigger>deps</tabTrigger>
+  <scope>source.shell,source.dosbatch</scope>
+</snippet>

@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Better RSpec",
+		"Case Conversion",
+		"ChangeQuotes",
+		"DashDoc",
+		"Delete Current File",
+		"File Rename",
+		"Fix Mac Path",
+		"GitSavvy",
+		"Insert Nums",
+		"Jump Along Indent",
+		"Package Control",
+		"Random Everything",
+		"RSpec",
+		"RubyTest",
+		"Sass",
+		"SCSS",
+		"Shell Turtlestein",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-rubocop",
+		"tabr"
+	]
+}

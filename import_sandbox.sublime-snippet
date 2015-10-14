@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+bundle exec cap sandbox db:download
+bundle exec rake db:drop
+bundle exec rake db:create
+bundle exec rake db:import DUMP=sandbox.dump.sql
+]]></content>
+  <tabTrigger>loads</tabTrigger>
+  <scope>source.shell,source.dosbatch</scope>
+</snippet>
