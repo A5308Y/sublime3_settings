@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[bundle exec rake parallel:spec]]></content>
+  <tabTrigger>sp</tabTrigger>
+  <scope>source.shell,source.dosbatch</scope>
+</snippet>

@@ -1,6 +1,5 @@
 [
   { "keys": ["ctrl+shift+'"], "command": "change_quotes" },
-  { "keys": ["super+t'"], "command": "new_tab" },
   { "keys": ["super+alt+s"], "command": "goto_symbol_in_project" },
   { "keys": ["f12"], "command": "toggle_bookmark" },
   { "keys": ["super+f12"], "command": "select_all_bookmarks" },
@@ -9,11 +8,8 @@
   { "keys": ["ctrl+shift+."], "command": "erb" },
   { "keys": ["ctrl+shift+p"], "command": "expand_selection_to_paragraph" },
   { "keys": ["ctrl+shift+r"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} },
-
-  { "keys": ["ctrl+shift+alt+d"], "command": "shell_command", "args": {
-    "command_prefix": "bundle exec cap sandbox deploy",
-    "prompt": "Deploy sandbox"
-  } },
+  { "keys": ["ctrl+alt+t"], "command": "reopen_last_file" },
+  { "keys": ["ctrl+shift+p"], "command": "expand_selection_to_paragraph" },
   // experimental:
   { "keys": ["ctrl+i"], "command": "expand_selection", "args": {"to": "word"} } // because cmd+i is incremental search
 ]

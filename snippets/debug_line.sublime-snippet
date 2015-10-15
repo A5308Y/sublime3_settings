@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+print "\n\n\n\\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n============HERE============\n\n"
+p ${1:debug code}
+]]></content>
+  <tabTrigger>dl</tabTrigger>
+  <scope>source.ruby</scope>
+</snippet>
