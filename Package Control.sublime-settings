@@ -25,7 +25,6 @@
 		"Shell Turtlestein",
 		"SublimeERB",
 		"SublimeLinter",
-		"SublimeLinter-rubocop",
-		"tabr"
+		"SublimeLinter-rubocop"
 	]
 }
