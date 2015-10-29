@@ -14,7 +14,6 @@
 		"Delete Current File",
 		"File Rename",
 		"Fix Mac Path",
-		"GitGutter",
 		"GitSavvy",
 		"Insert Nums",
 		"Jump Along Indent",
@@ -27,6 +26,7 @@
 		"Shell Turtlestein",
 		"SublimeERB",
 		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-rubocop",
+		"tabr"
 	]
 }
