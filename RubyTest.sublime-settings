@@ -1,5 +1,5 @@
 {
 	"check_for_rbenv": true,
-	"run_rspec_command": "spring rspec {relative_path}",
-	"run_single_rspec_command": "spring rspec {relative_path}:{line_number}"
+	"run_rspec_command": "bundle exec spring rspec {relative_path}",
+	"run_single_rspec_command": "bundle exec spring rspec {relative_path}:{line_number}"
 }
