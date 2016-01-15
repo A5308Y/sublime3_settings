@@ -1862,6 +1862,36 @@
 			</dict>
 		</dict>
 	<dict>
+            <key>name</key>
+            <string>SublimeLinter Error</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.error</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DA2000</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Gutter Mark</string>
+            <key>scope</key>
+            <string>sublimelinter.gutter-mark</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFFFFF</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#EDBA00</string>
+            </dict>
+        </dict><dict>
     <key>name</key>
     <string>GitSavvy Added Line</string>
     <key>scope</key>
@@ -1869,11 +1899,11 @@
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#F9F9F4</string>
-
         <key>background</key>
         <string>#37A832</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
 
     </dict>
 </dict><dict>
@@ -1884,11 +1914,11 @@
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#F9F9F4</string>
-
         <key>background</key>
         <string>#A83732</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
 
     </dict>
 </dict><dict>
@@ -1899,11 +1929,11 @@
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#F9F9F4</string>
-
         <key>background</key>
         <string>#287020</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
 
     </dict>
 </dict><dict>
@@ -1914,11 +1944,11 @@
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#F9F9F4</string>
-
         <key>background</key>
         <string>#702820</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
 
     </dict>
 </dict></array>
